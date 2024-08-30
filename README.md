@@ -1,6 +1,6 @@
 # vk-user-scrape
 
-This is my another pet project. It scrapes data and friends lists of number of users 
+This is my another pet project. It scrapes data and friends lists of number of users and then plots a graph
 
 This code returns several files:
   1. 2 Excel files with all the publicly availible information of:
