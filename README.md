@@ -1,4 +1,4 @@
-# vk-user-scrape
+# vk-user-scraper
 
 This is my another pet project. It scrapes data and friends lists of number of users and then plots a graph
 
